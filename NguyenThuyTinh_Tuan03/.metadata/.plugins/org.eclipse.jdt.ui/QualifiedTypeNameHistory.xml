@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="entity.DirExplorer"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.visitor.VoidVisitorAdapter"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.StaticJavaParser"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.body.ClassOrInterfaceDeclaration"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Strings"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+    <fullyQualifiedTypeName name="javax.xml.stream.events.Comment"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.comments.Comment"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.body.FieldDeclaration"/>
+</qualifiedTypeNameHistroy>

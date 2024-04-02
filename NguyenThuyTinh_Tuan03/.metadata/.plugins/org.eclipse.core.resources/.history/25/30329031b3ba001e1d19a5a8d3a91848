@@ -1,0 +1,6 @@
+package entity;
+import com.github.javaparser.ast.Node;
+
+public class NodeHandler {
+
+}
